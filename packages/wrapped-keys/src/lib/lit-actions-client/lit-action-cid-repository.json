@@ -1,15 +1,15 @@
 {
   "signTransaction": {
     "evm": "QmYTEJyniRRkTxe3D9mmkURXCFBAXWK7TEGk5LxvWSETWn",
-    "solana": "QmViw2xoBJQtfiq5efNsYfnP7f6ezHNCf3afJf9EHy2ayr"
+    "solana": "QmWUozjthkrjEBGkkEvGTvCaxCaiPMTke6FUpiwhn28k8Z"
   },
   "signMessage": {
     "evm": "Qmdm4mGn6A8RmqeiDgRPXFt2yYEKCUMUVimSb5iPJfs31e",
-    "solana": "QmaqPbWWzBvvojBu4hxrkBikb6XispQLBaER3PFc6N3J7X"
+    "solana": "QmS4Y6f2zHriNzioxBbysbuXQbjX7ga468CCyYcuY2AeeH"
   },
   "generateEncryptedKey": {
     "evm": "QmfW6g5PJ8SVS56XwDVC5W4gcUnobEempNkR28bj2g99tk",
-    "solana": "QmWNUTxNRot8NuX9mds6mkqLAm4fXtpe5nd9TD5cPr17MW"
+    "solana": "QmWYcBCZqFmJJzsRfzVRHbPD5Hvuou45sbXPQcQzLbUgKd"
   },
   "exportPrivateKey": {
     "evm": "QmfZ8hYEmNFwHraNieSz25dAp65YBoNjAMC2tXm9oaQCt6",
